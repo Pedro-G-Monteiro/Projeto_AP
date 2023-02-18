@@ -5,7 +5,7 @@
   </a>
   
   <p align="center">
-  Projeto desenvolvido por três alunos da licenciatura em Engenharia Informática no Instituto Politécnico de Viseu, no âmbito da cadeira de Algoritmos e Programação do primeiro ano em **linguagem C**.
+  Projeto desenvolvido por três alunos da licenciatura em Engenharia Informática no Instituto Politécnico de Viseu, no âmbito da cadeira de Algoritmos e Programação do primeiro ano em <b>linguagem C</b>.
   </p>
 </div>
 
