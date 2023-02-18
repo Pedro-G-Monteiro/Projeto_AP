@@ -5,7 +5,7 @@
   </a>
   
   <p align="center">
-  Projeto desenvolvido por três alunos da licenciatura em Engenharia Informática no Instituto Politécnico de Viseu, no âmbito da cadeira de Algoritmos e Programação do primeiro ano.
+  Projeto desenvolvido por três alunos da licenciatura em Engenharia Informática no Instituto Politécnico de Viseu, no âmbito da cadeira de Algoritmos e Programação do primeiro ano em linguagem C.
   </p>
 </div>
 
@@ -14,10 +14,9 @@
 O intuito deste projeto passa por criar uma aplicação para um empresa de energia. Criar contratos, fazer leituras, calcular gastos, entre várias outras funcionalidades implementadas no mesmo.
 
 ### Feito com
-* [![Artur][Artur_GitHub.js]][Artur_GitHub-url]
-* [![Alexandre][Alexandre_GitHub.js]][Alexandre_GitHub-url]
+[![Artur][Artur_GitHub.js]][Artur_GitHub-url] e [![Alexandre][Alexandre_GitHub.js]][Alexandre_GitHub-url]
 
-[Artur_GitHub.js]: https://img.shields.io/badge/Artur-100000?style=for-the-badge&logo=github&logoColor=white
-[Alexandre_GitHub.js]: https://img.shields.io/badge/Alexandre-100000?style=for-the-badge&logo=github&logoColor=white
+[Artur_GitHub.js]: https://img.shields.io/badge/Artur-100000?style=plastic&logo=github&logoColor=white
+[Alexandre_GitHub.js]: https://img.shields.io/badge/Alexandre-100000?style=plastic&logo=github&logoColor=white
 [Artur_GitHub-url]: https://github.com/ArturSantos23
-[Alexandre_GitHub-url]: https://img.shields.io/badge/Alexandre-100000?style=for-the-badge&logo=github&logoColor=white
+[Alexandre_GitHub-url]: https://github.com/a21966
