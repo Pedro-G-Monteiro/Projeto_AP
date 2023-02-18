@@ -1,10 +1,10 @@
-<br />
 <div align="center">
   <a href="https://github.com/Pedro-G-Monteiro/Projeto_AP">
     Aceder ao repositório
   </a>
   
   <p align="center">
+    <br>
   Projeto desenvolvido por três alunos da licenciatura em Engenharia Informática no Instituto Politécnico de Viseu, no âmbito da cadeira de Algoritmos e Programação do primeiro ano em <b><i>linguagem C</i></b>.
   </p>
 </div>
