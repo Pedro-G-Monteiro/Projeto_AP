@@ -1,17 +1,6 @@
-<div align="center">
-  <a href="https://github.com/Pedro-G-Monteiro/Projeto_AP">
-    Aceder ao repositório
-  </a>
-  
-  <p align="center">
-    <br>
-  Projeto desenvolvido por três alunos da licenciatura em Engenharia Informática no Instituto Politécnico de Viseu, no âmbito da cadeira de Algoritmos e Programação do primeiro ano em <b><i>linguagem C</i></b>.
-  </p>
-</div>
-
 ## Sobre o Projeto
-
-O intuito deste projeto passa por criar uma aplicação para um empresa de energia. Criar contratos, fazer leituras, calcular gastos, entre várias outras funcionalidades implementadas no mesmo.
+Projeto desenvolvido por três alunos da licenciatura em Engenharia Informática no Instituto Politécnico de Viseu, no âmbito da cadeira de Algoritmos e Programação do primeiro ano em ***linguagem C***, cujo intuito passa por criar uma aplicação para um empresa de energia.
+De entre várias funcionalidades, realçam-se as mais comuns como, criação de contratos, adição de leituras e cálculo de gastos.
 
 ### Feito com
 [![Artur][Artur_GitHub.js]][Artur_GitHub-url] [![Alexandre][Alexandre_GitHub.js]][Alexandre_GitHub-url]
