@@ -15,7 +15,7 @@ O intuito deste projeto passa por criar uma aplicação para um empresa de energ
 
 ### Feito com
 * [![Artur][Artur_GitHub.js]][Artur_GitHub-url]
-* [![Alexandre][Alexandre_GitHub.js][Alexandre_GitHub-url]
+* [![Alexandre][Alexandre_GitHub.js]][Alexandre_GitHub-url]
 
 [Artur_GitHub.js]: https://img.shields.io/badge/Artur-100000?style=for-the-badge&logo=github&logoColor=white
 [Alexandre_GitHub.js]: https://img.shields.io/badge/Alexandre-100000?style=for-the-badge&logo=github&logoColor=white
