@@ -19,5 +19,5 @@ O intuito deste projeto passa por criar uma aplicação para um empresa de energ
 
 [Artur_GitHub] https://img.shields.io/badge/Artur-100000?style=for-the-badge&logo=github&logoColor=white
 [Alexandre_GitHub]https://img.shields.io/badge/Alexandre-100000?style=for-the-badge&logo=github&logoColor=white
-[Artur_GitHub.url] https://img.shields.io/badge/Artur-100000?style=for-the-badge&logo=github&logoColor=white
+[Artur_GitHub.url] https://github.com/ArturSantos23
 [Alexandre_GitHub.url]https://img.shields.io/badge/Alexandre-100000?style=for-the-badge&logo=github&logoColor=white
