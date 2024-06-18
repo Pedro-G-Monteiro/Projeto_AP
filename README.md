@@ -1,11 +1,83 @@
-## Sobre o Projeto
-Projeto desenvolvido por três alunos da licenciatura em Engenharia Informática no Instituto Politécnico de Viseu, no âmbito da cadeira de Algoritmos e Programação do primeiro ano em ***linguagem C***, cujo intuito passa por criar uma aplicação para um empresa de energia.
-De entre várias funcionalidades, realçam-se as mais comuns como, criação de contratos, adição de leituras e cálculo de gastos.
 
-### Feito com
-[![Artur][Artur_GitHub.js]][Artur_GitHub-url] [![Alexandre][Alexandre_GitHub.js]][Alexandre_GitHub-url]
+# Projeto de Algoritmo e Programação - Grupo 11
 
-[Artur_GitHub.js]: https://img.shields.io/badge/Artur-100000?style=plastic&logo=github&logoColor=white
-[Alexandre_GitHub.js]: https://img.shields.io/badge/Alexandre-100000?style=plastic&logo=github&logoColor=white
-[Artur_GitHub-url]: https://github.com/ArturSantos23
-[Alexandre_GitHub-url]: https://github.com/a21966
+## Introdução
+
+Este projeto foi desenvolvido pelos alunos Alexandre Moreira, Artur Santos, Pedro Monteiro e Rodrigo Alves para a Unidade Curricular de Algoritmo e Programação, no primeiro ano da licenciatura. O objetivo do projeto é gerir contratos de clientes de uma empresa, incluindo a criação, eliminação, listagem e cálculo de estatísticas relacionadas aos consumos dos clientes.
+
+## Estrutura do Projeto
+
+O projeto é composto pelos seguintes módulos:
+
+- **Main**: O ponto de entrada do programa que exibe o menu principal e redireciona o usuário para as diferentes áreas do sistema.
+- **Gestão de Contratos**: Funções para criar, eliminar e listar contratos.
+- **Gestão de Leituras**: Funções para adicionar leituras de consumo aos contratos.
+- **Estatísticas**: Funções para calcular estatísticas como média de consumo por freguesia e número de contratos sem consumo.
+- **Persistência de Dados**: Funções para guardar e ler dados de contratos em ficheiros de texto e binários.
+
+## Funcionalidades
+
+### Menu Principal
+
+O menu principal oferece as seguintes opções:
+
+1. Área de Clientes
+2. Área da Empresa
+3. Estatísticas
+4. Sair e fazer Reset
+5. Sair e Guardar
+
+### Área de Clientes
+
+Nesta área, os usuários podem:
+
+- Criar um novo contrato
+- Eliminar um contrato existente
+
+### Área da Empresa
+
+Nesta área, os usuários podem:
+
+- Listar todos os contratos
+- Listar a média de consumos por freguesia
+- Adicionar uma leitura de consumo a um contrato
+- Procurar um contrato pelo nome do cliente
+
+### Estatísticas
+
+Nesta seção, são apresentadas as seguintes estatísticas:
+
+- Número total de contratos criados
+- Número de contratos sem consumo
+
+### Persistência de Dados
+
+Os dados dos contratos são guardados automaticamente em ficheiros de texto e binários quando o programa encerra. Os ficheiros incluem:
+
+- `Contratos.txt`
+- `Contratos.dat`
+- `Contratos Eliminados.txt`
+- `Contratos Eliminados.dat`
+- `Freguesias.txt`
+- `Leituras.txt`
+
+## Compilação e Execução
+
+Para compilar e executar o programa, siga os seguintes passos:
+
+1. Compile o código fonte com o comando:
+   ```bash
+   gcc -o projeto Grupo11_AlexandreMoreira_ArturSantos_PedroMonteiro_RodrigoAlves.c
+   ```
+
+2. Execute o programa:
+   ```bash
+   ./projeto
+   ```
+
+## Contribuidores
+
+- Alexandre Moreira
+- Artur Santos
+- Pedro Monteiro
+- Rodrigo Alves
